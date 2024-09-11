@@ -3,6 +3,7 @@
 Pengalaman Belajar di Dicoding
 
 11 September 2024
-Belajar Dasar Git dengan GitHub. (Progres 38%)
+Belajar Dasar Git dengan GitHub. (Progres 58%)
 * Dasar Git
 * Git Branches
+* kolaborasi tim
