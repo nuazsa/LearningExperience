@@ -19,4 +19,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
   
 **21 Juni 2021**  
+Refleksi diri setelah melakukan perjalanan panjang
 Completed all of study
